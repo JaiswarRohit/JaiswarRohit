@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1QxBJc1E-0uavLDwqkCGcC_LNPJ81AhTz/view?usp=sharing)]
+
 <h1 align="center">Hi 👋, I'm Rohit Jaiswar</h1>
 <h3 align="center">I'm currently pursuing my Computer Science Engineering from India. A passionate Full-stack developer and Machine Learning Enthusiast. Extremely driven by a passion for code and building tech stuff.</h3>
 <br>
