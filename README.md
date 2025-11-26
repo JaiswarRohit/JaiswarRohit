@@ -2,11 +2,11 @@
 
 # Hi there, I'm Rohit Jaiswar 👋
 
-<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-
 ## Software Engineer | AI/ML Enthusiast
 
-I'm a passionate software engineer with a Computer Science Engineering background from India. I love building scalable applications and exploring the intersection of software engineering and machine learning.
+#### I'm a passionate software engineer with a background in Computer Science Engineering from India. I love building scalable applications and exploring the intersection of software engineering and machine learning.
+
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 ### 🚀 Currently Working With
 - **FastAPI & Django** - Building high-performance APIs and web frameworks
@@ -65,7 +65,6 @@ I'm always excited to collaborate on interesting projects, especially in:
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
----
 
 💡 *"Learning every day, building for tomorrow"*
 
